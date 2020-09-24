@@ -1,1 +1,3 @@
 # hello-world
+  Hello GitHub! My name is Letícia Pires and I´m new at programing, and I hope I learn a lot with this comunity.
+I´m a ex-athlete, now I´m jumping in programing. The first coding language I´ve been trying to learn is JavaScript, if everything goes right maybe one day I´ll be a software engineer! This is just the beginning of my path...
